@@ -37,7 +37,7 @@ Analyzes LSP warehouse entry times at the hour and minute level to calculate pun
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/ops-tools
+git clone https://github.com/CoteeMiguel/ops-tools
 cd ops-tools
 pip install -r requirements.txt
 ```
@@ -70,4 +70,4 @@ python-dotenv
 
 **Jose Miguel Varas**  
 Supply Chain & Operations Automation
-[linkedin.com/in/your-profile](https://linkedin.com/in/jmvaras) · [github.com/your-username](https://github.com/CoteeMiguel)
+[linkedin.com/in/jmvaras](https://linkedin.com/in/jmvaras) · [github.com/CoteeMiguel](https://github.com/CoteeMiguel)
