@@ -1,4 +1,4 @@
-# HP Inc — Operations Tools
+# Operations Tools
 
 > A collection of desktop utilities and automation scripts for the supply chain team's daily workflow. Small scripts with high day-to-day impact: from opening a delivery's tracking page with a keyboard shortcut to calculating KPIs across hundreds of records in seconds.
 
@@ -9,7 +9,7 @@
 ## Tools
 
 ### `dlvsearcher.py` + `dlv.bat` — One-click delivery tracking
-Opens the DHL TMS tracking page for any delivery number currently in your clipboard. Triggered from anywhere in Windows via the `.bat` shortcut — no browser navigation, no copy-pasting into search fields.
+Opens the Global Logistics Provider's TMS tracking page for any delivery number currently in your clipboard. Triggered from anywhere in Windows via the `.bat` shortcut — no browser navigation, no copy-pasting into search fields.
 
 **Usage:**
 1. Copy a delivery number (`Ctrl+C`)
@@ -37,8 +37,8 @@ Analyzes LSP warehouse entry times at the hour and minute level to calculate pun
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/hp-ops-tools
-cd hp-ops-tools
+git clone https://github.com/your-username/ops-tools
+cd ops-tools
 pip install -r requirements.txt
 ```
 
@@ -68,6 +68,6 @@ python-dotenv
 
 ## Author
 
-**Vicente Arasaya**  
-Supply Chain & Operations Automation · HP Inc Chile  
-[linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) · [github.com/your-username](https://github.com/your-username)
+**Jose Miguel Varas**  
+Supply Chain & Operations Automation
+[linkedin.com/in/your-profile](https://linkedin.com/in/jmvaras) · [github.com/your-username](https://github.com/CoteeMiguel)
